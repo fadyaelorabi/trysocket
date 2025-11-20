@@ -1,0 +1,8 @@
+{
+  "name": "test-socket-project",
+  "version": "1.0.0",
+  "private": true,
+  "dependencies": {
+    "deep-fake-malware-socket-test-simulated-package": "1.0.0"
+  }
+}
